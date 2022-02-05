@@ -35,9 +35,54 @@ Content
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Final Exam | 90 |
-| Exam | 50 |
-| Quiz | 10 |
-| Three Problem Sets | ~10 each
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+90
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+~10 each
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
